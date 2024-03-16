@@ -10,7 +10,7 @@ export default function Navbar() {
     <div className='mx-auto container'>
       <nav className='relative px-4 py-4 flex justify-between items-center bg-white'>
         <a className='text-3xl font-bold leading-none' href='#'>
-          <Image src='/logo.png' alt='logo' width={147} height={42} />
+          <Image src='/Logo.png' alt='logo' width={147} height={42} />
         </a>
         <div className='lg:hidden'>
           <button

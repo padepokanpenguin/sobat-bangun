@@ -6,7 +6,7 @@ import BreadCumbs from '@/components/breadcumbs';
 export default function Home() {
   return (
     <div>
-      <BreadCumbs />
+      <BreadCumbs params='home/layanan-desain/omah-apik-3' />
       <ProductImg />
       <ProductDetail />
       <OtherProducts />
